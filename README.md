@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Node.js TCP Server
 
 A simple TCP server built with Node.js to handle HTTP-like requests.
