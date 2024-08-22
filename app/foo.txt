@@ -1,0 +1,2 @@
+hello world Siddharth is right now watching a series and arvind is right now making a flask based application and I am right making a HTTP server 
+to retrive the files content which are given in the path of the url to the server
